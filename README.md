@@ -39,7 +39,4 @@ Here are the end-to-end projects I will (or already did) implement as part of th
 - **MLOps** → Online reputation monitoring system  
 - **Explainable AI (XAI)** → Neural network interpretation for banking compliance  
 
----
-
-## 📂 Repository structure
 
